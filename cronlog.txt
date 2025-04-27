@@ -1,0 +1,10 @@
+[INFO] 2025-04-27T14:32:35.140Z - weather reporting service started...
+[INFO] 2025-04-27T14:32:37.489Z - fetch 50 top cities.
+[INFO] 2025-04-27T14:33:37.019Z - fetched current weather data for 50 cities.
+[INFO] 2025-04-27T14:33:37.024Z - CSV file successfully written at /Users/ishangill/Desktop/code/personal/iion/automated_weather_reporting/output/weather_report_1745764417022.csv
+[INFO] 2025-04-27T14:33:37.024Z - generated CSV report at /Users/ishangill/Desktop/code/personal/iion/automated_weather_reporting/output/weather_report_1745764417022.csv.
+[INFO] 2025-04-27T14:33:42.733Z - File uploaded successfully. Public Link: https://docs.google.com/spreadsheets/d/1SQ_hBDuF0etIf54LoV54iNZ8COynEPHhgBNJWfILg24/edit?usp=sharing
+[INFO] 2025-04-27T14:33:42.734Z - Uploaded file to Google Drive. Public link: https://docs.google.com/spreadsheets/d/1SQ_hBDuF0etIf54LoV54iNZ8COynEPHhgBNJWfILg24/edit?usp=sharing
+[INFO] 2025-04-27T14:33:46.931Z - Email sent successfully.
+[INFO] 2025-04-27T14:33:46.932Z - Email sent successfully.
+[INFO] 2025-04-27T14:33:46.932Z - Weather reporting service finished successfully.
